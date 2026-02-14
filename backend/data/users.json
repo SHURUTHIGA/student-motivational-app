@@ -1,0 +1,32 @@
+[
+  {
+    "email": "shuruthigasuresh@gmail.com",
+    "password": "123456789",
+    "createdAt": "2026-02-12T06:40:57.923Z"
+  },
+  {
+    "email": "nancy.cs23@bitsathy.ac.in",
+    "password": "12345678",
+    "createdAt": "2026-02-12T08:40:46.953Z"
+  },
+  {
+    "email": "teacher@gmail.com",
+    "password": "teacher123",
+    "createdAt": "2026-02-12T17:36:11.869Z"
+  },
+  {
+    "email": "shuruthiga.cs23@gmail.com",
+    "password": "1123",
+    "createdAt": "2026-02-13T16:14:58.394Z"
+  },
+  {
+    "email": "manoj@gmail.com",
+    "password": "2120",
+    "createdAt": "2026-02-13T16:16:49.186Z"
+  },
+  {
+    "email": "s@gmail.com",
+    "password": "123456",
+    "createdAt": "2026-02-13T16:21:10.914Z"
+  }
+]
