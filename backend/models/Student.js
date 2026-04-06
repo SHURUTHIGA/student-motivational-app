@@ -4,6 +4,8 @@ const StudentSchema = new mongoose.Schema(
     {
         name: { type: String, required: true },
         email: { type: String, default: "" },
+        institutionId: { type: String, default: "", trim: true, lowercase: true },
+        institutionName: { type: String, default: "" },
         department: { type: String, default: "" },
         year: { type: String, default: "" },
         age: { type: Number },
