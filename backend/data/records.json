@@ -1,5 +1,375 @@
 [
   {
+    "_id": "1773121292363-6692",
+    "studentName": "manoj",
+    "studentClass": "JEE Main",
+    "section": "2",
+    "department": "spectra",
+    "semester": "morning batch",
+    "cgpa": 8,
+    "studyGoal": "AllIndia 10th rank",
+    "attendanceLevel": "good",
+    "assignmentStatus": "needs_improvement",
+    "stressLevelText": "high",
+    "extracurricularHours": 1,
+    "parentSupport": 5,
+    "studyHours": 5,
+    "attendance": 99,
+    "assignmentCompletion": 60,
+    "sleepHours": 7,
+    "stressLevel": 9,
+    "motivationScore": 69,
+    "motivationLevel": "Moderate",
+    "feedback": [
+      "Break assignments into smaller tasks and track deadlines.",
+      "Use short breaks, breathing exercises, or walks to reduce stress."
+    ],
+    "predictedScoreBand": {
+      "examLabel": "JEE Main",
+      "maxMarks": 300,
+      "rangeLow": 202,
+      "rangeHigh": 240,
+      "confidence": "Low",
+      "bandLabel": "Steady Climb Zone",
+      "strategyHint": "Prioritize timed mock analysis and error correction before adding new chapters."
+    },
+    "topFocusAreas": [
+      {
+        "title": "Mock Practice Completion",
+        "priority": 22,
+        "reason": "Practice completion is limiting exam readiness.",
+        "action": "Complete pending DPP/mock tasks first and review errors immediately."
+      },
+      {
+        "title": "Recovery & Stress Balance",
+        "priority": 21,
+        "reason": "Sleep/stress balance is impacting performance quality.",
+        "action": "Target 7+ hours sleep and include short recovery breaks in study blocks."
+      },
+      {
+        "title": "Revision Consistency",
+        "priority": 0,
+        "reason": "Focused study consistency is below target.",
+        "action": "Block two deep-work sessions daily and finish one revision loop before sleep."
+      }
+    ],
+    "dailyBattlePlan": {
+      "mustDo": "Close pending assignments first with a 60-minute deadline-focused sprint.",
+      "shouldDo": "Take two short recovery breaks and target 7+ hours of sleep tonight.",
+      "ifTime": "Organize tomorrow's tasks by priority and pre-plan the first task."
+    },
+    "motivationalLine": "You are on the right path. A little more consistency will create big results.",
+    "createdAt": "2026-03-10T05:41:32.364Z"
+  },
+  {
+    "_id": "1773066079163-16731",
+    "studentName": "manoj",
+    "studentClass": "JEE Main",
+    "section": "2",
+    "department": "spectra",
+    "semester": "morning batch",
+    "cgpa": 8,
+    "studyGoal": "All India 1st rank",
+    "attendanceLevel": "excellent",
+    "assignmentStatus": "on_track",
+    "stressLevelText": "moderate",
+    "extracurricularHours": 1,
+    "parentSupport": 5,
+    "studyHours": 8,
+    "attendance": 98,
+    "assignmentCompletion": 60,
+    "sleepHours": 7,
+    "stressLevel": 6,
+    "motivationScore": 76,
+    "motivationLevel": "High",
+    "feedback": [
+      "Break assignments into smaller tasks and track deadlines."
+    ],
+    "predictedScoreBand": {
+      "examLabel": "JEE Main",
+      "maxMarks": 300,
+      "rangeLow": 212,
+      "rangeHigh": 248,
+      "confidence": "Low",
+      "bandLabel": "Breakthrough Zone",
+      "strategyHint": "Prioritize timed mock analysis and error correction before adding new chapters."
+    },
+    "topFocusAreas": [
+      {
+        "title": "Mock Practice Completion",
+        "priority": 22,
+        "reason": "Practice completion is limiting exam readiness.",
+        "action": "Complete pending DPP/mock tasks first and review errors immediately."
+      },
+      {
+        "title": "Recovery & Stress Balance",
+        "priority": 6,
+        "reason": "Sleep/stress balance is impacting performance quality.",
+        "action": "Target 7+ hours sleep and include short recovery breaks in study blocks."
+      },
+      {
+        "title": "Revision Consistency",
+        "priority": 0,
+        "reason": "Focused study consistency is below target.",
+        "action": "Block two deep-work sessions daily and finish one revision loop before sleep."
+      }
+    ],
+    "dailyBattlePlan": {
+      "mustDo": "Close pending assignments first with a 60-minute deadline-focused sprint.",
+      "shouldDo": "Attempt one timed practice set and analyze accuracy immediately after.",
+      "ifTime": "Organize tomorrow's tasks by priority and pre-plan the first task."
+    },
+    "motivationalLine": "Excellent consistency. Keep pushing to reach your highest potential.",
+    "createdAt": "2026-03-09T14:21:19.163Z"
+  },
+  {
+    "_id": "1773046172305-33068",
+    "studentName": "shuruthiga",
+    "studentClass": "JEE Main",
+    "section": "1",
+    "department": "spectra",
+    "semester": "morning batch",
+    "cgpa": 10,
+    "studyGoal": "All India 1st rank",
+    "attendanceLevel": "excellent",
+    "assignmentStatus": "on_track",
+    "stressLevelText": "low",
+    "extracurricularHours": 1,
+    "parentSupport": 5,
+    "studyHours": 8,
+    "attendance": 98,
+    "assignmentCompletion": 100,
+    "sleepHours": 7,
+    "stressLevel": 3,
+    "motivationScore": 88,
+    "motivationLevel": "High",
+    "feedback": [
+      "Great progress. Keep your daily consistency strong."
+    ],
+    "predictedScoreBand": {
+      "examLabel": "JEE Main",
+      "maxMarks": 300,
+      "rangeLow": 252,
+      "rangeHigh": 280,
+      "confidence": "High",
+      "bandLabel": "Breakthrough Zone",
+      "strategyHint": "Strengthen weak concepts first, then retest with chapter-wise practice."
+    },
+    "topFocusAreas": [
+      {
+        "title": "Revision Consistency",
+        "priority": 0,
+        "reason": "Focused study consistency is below target.",
+        "action": "Block two deep-work sessions daily and finish one revision loop before sleep."
+      },
+      {
+        "title": "Class & Test Attendance",
+        "priority": 0,
+        "reason": "Attendance is affecting learning continuity.",
+        "action": "Maintain full attendance this week and make same-day recap notes."
+      },
+      {
+        "title": "Mock Practice Completion",
+        "priority": 0,
+        "reason": "Practice completion is limiting exam readiness.",
+        "action": "Complete pending DPP/mock tasks first and review errors immediately."
+      }
+    ],
+    "dailyBattlePlan": {
+      "mustDo": "Protect your focused study routine with at least one deep-work session today.",
+      "shouldDo": "Attempt one timed practice set and analyze accuracy immediately after.",
+      "ifTime": "Solve an extra challenge set and note the top three learnings."
+    },
+    "motivationalLine": "Excellent consistency. Keep pushing to reach your highest potential.",
+    "createdAt": "2026-03-09T08:49:32.305Z"
+  },
+  {
+    "_id": "1773045775536-34554",
+    "studentName": "manoj",
+    "studentClass": "JEE Advanced",
+    "section": "2",
+    "department": "srm",
+    "semester": "morning batch",
+    "studyGoal": "AllIndia 10th rank",
+    "attendanceLevel": "good",
+    "assignmentStatus": "needs_improvement",
+    "stressLevelText": "moderate",
+    "extracurricularHours": 1,
+    "parentSupport": 5,
+    "studyHours": 6,
+    "attendance": 87,
+    "assignmentCompletion": 80,
+    "sleepHours": 4,
+    "stressLevel": 6,
+    "motivationScore": 66,
+    "motivationLevel": "Moderate",
+    "feedback": [
+      "Sleep at least 7 hours for better focus and memory."
+    ],
+    "predictedScoreBand": {
+      "examLabel": "JEE Advanced",
+      "maxMarks": 360,
+      "rangeLow": 257,
+      "rangeHigh": 301,
+      "confidence": "Low",
+      "bandLabel": "Breakthrough Zone",
+      "strategyHint": "Strengthen weak concepts first, then retest with chapter-wise practice."
+    },
+    "topFocusAreas": [
+      {
+        "title": "Concept Clarity",
+        "priority": 72,
+        "reason": "Current confidence indicates concept reinforcement is needed.",
+        "action": "Pick two weak chapters and complete concept revision plus solved examples."
+      },
+      {
+        "title": "Recovery & Stress Balance",
+        "priority": 25,
+        "reason": "Sleep/stress balance is impacting performance quality.",
+        "action": "Target 7+ hours sleep and include short recovery breaks in study blocks."
+      },
+      {
+        "title": "Mock Practice Completion",
+        "priority": 2,
+        "reason": "Practice completion is limiting exam readiness.",
+        "action": "Complete pending DPP/mock tasks first and review errors immediately."
+      }
+    ],
+    "dailyBattlePlan": {
+      "mustDo": "Protect your focused study routine with at least one deep-work session today.",
+      "shouldDo": "Take two short recovery breaks and target 7+ hours of sleep tonight.",
+      "ifTime": "Solve an extra challenge set and note the top three learnings."
+    },
+    "motivationalLine": "You are on the right path. A little more consistency will create big results.",
+    "createdAt": "2026-03-09T08:42:55.536Z"
+  },
+  {
+    "_id": "1773038587271-21989",
+    "studentName": "manoj",
+    "studentClass": "JEE Main",
+    "section": "2",
+    "department": "srm",
+    "semester": "morning batch",
+    "studyGoal": "AllIndia 10th rank",
+    "attendanceLevel": "good",
+    "assignmentStatus": "needs_improvement",
+    "stressLevelText": "moderate",
+    "wrongConceptAnswers": 0,
+    "wrongSillyAnswers": 0,
+    "wrongTimeAnswers": 0,
+    "extracurricularHours": 1,
+    "parentSupport": 5,
+    "studyHours": 6,
+    "attendance": 87,
+    "assignmentCompletion": 60,
+    "sleepHours": 4,
+    "stressLevel": 6,
+    "motivationScore": 63,
+    "motivationLevel": "Moderate",
+    "feedback": [
+      "Break assignments into smaller tasks and track deadlines.",
+      "Sleep at least 7 hours for better focus and memory."
+    ],
+    "topFocusAreas": [
+      {
+        "title": "Concept Clarity",
+        "priority": 72,
+        "reason": "Current confidence indicates concept reinforcement is needed.",
+        "action": "Pick two weak chapters and complete concept revision plus solved examples."
+      },
+      {
+        "title": "Recovery & Stress Balance",
+        "priority": 25,
+        "reason": "Sleep/stress balance is impacting performance quality.",
+        "action": "Target 7+ hours sleep and include short recovery breaks in study blocks."
+      },
+      {
+        "title": "Mock Practice Completion",
+        "priority": 22,
+        "reason": "Practice completion is limiting exam readiness.",
+        "action": "Complete pending DPP/mock tasks first and review errors immediately."
+      }
+    ],
+    "dailyBattlePlan": {
+      "mustDo": "Close pending assignments first with a 60-minute deadline-focused sprint.",
+      "shouldDo": "Take two short recovery breaks and target 7+ hours of sleep tonight.",
+      "ifTime": "Organize tomorrow's tasks by priority and pre-plan the first task."
+    },
+    "motivationalLine": "You are on the right path. A little more consistency will create big results.",
+    "createdAt": "2026-03-09T06:43:07.271Z"
+  },
+  {
+    "_id": "1773038128852-36900",
+    "studentName": "manoj",
+    "studentClass": "JEE Main",
+    "section": "2",
+    "department": "srm",
+    "semester": "morning batch",
+    "cgpa": 8,
+    "studyGoal": "AllIndia 10th rank",
+    "attendanceLevel": "good",
+    "assignmentStatus": "lagging",
+    "stressLevelText": "high",
+    "extracurricularHours": 1,
+    "parentSupport": 5,
+    "studyHours": 6,
+    "attendance": 87,
+    "assignmentCompletion": 80,
+    "sleepHours": 4,
+    "stressLevel": 9,
+    "motivationScore": 69,
+    "motivationLevel": "Moderate",
+    "feedback": [
+      "Sleep at least 7 hours for better focus and memory.",
+      "Use short breaks, breathing exercises, or walks to reduce stress."
+    ],
+    "dailyBattlePlan": {
+      "mustDo": "Protect your focused study routine with at least one deep-work session today.",
+      "shouldDo": "Take two short recovery breaks and target 7+ hours of sleep tonight.",
+      "ifTime": "Solve an extra challenge set and note the top three learnings."
+    },
+    "motivationalLine": "You are on the right path. A little more consistency will create big results.",
+    "createdAt": "2026-03-09T06:35:28.852Z"
+  },
+  {
+    "_id": "1773036753139-67087",
+    "studentName": "shuruthiga",
+    "age": 18,
+    "gender": "Female",
+    "studentClass": "3rd year",
+    "section": "3rd year",
+    "department": "ECE",
+    "semester": "6",
+    "cgpa": 7.9,
+    "studyGoal": "GGP ABOVE 9",
+    "attendanceLevel": "good",
+    "assignmentStatus": "needs_improvement",
+    "extracurricularLevel": "active",
+    "parentSupportLevel": "high",
+    "stressLevelText": "moderate",
+    "extracurricularHours": 2.5,
+    "parentSupport": 1,
+    "studyHours": 7,
+    "attendance": 100,
+    "assignmentCompletion": 47,
+    "sleepHours": 6,
+    "stressLevel": 6,
+    "motivationScore": 72,
+    "motivationLevel": "Moderate",
+    "feedback": [
+      "Break assignments into smaller tasks and track deadlines.",
+      "Sleep at least 7 hours for better focus and memory.",
+      "Discuss your study plan with family for better support."
+    ],
+    "dailyBattlePlan": {
+      "mustDo": "Close pending assignments first with a 60-minute deadline-focused sprint.",
+      "shouldDo": "Take two short recovery breaks and target 7+ hours of sleep tonight.",
+      "ifTime": "Organize tomorrow's tasks by priority and pre-plan the first task."
+    },
+    "motivationalLine": "You are on the right path. A little more consistency will create big results.",
+    "createdAt": "2026-03-09T06:12:33.139Z"
+  },
+  {
     "_id": "1770999537897-56104",
     "studentName": "manoj",
     "age": 21,
